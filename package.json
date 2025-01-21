@@ -1,0 +1,22 @@
+{
+  "name": "vanilla-js",
+  "version": "1.0.0",
+  "description": "## vanilla-js template.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "chokidar": "^3.5.1",
+    "ws": "^7.4.6"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "keywords": [],
+  "author": "Micheal Callaghan",
+  "license": "ISC"
+}
